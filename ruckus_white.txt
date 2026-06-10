@@ -2,9 +2,9 @@
 # AdGuard allowlist — one domain per line using filter syntax
 # Format: @@||domain.com^
 
-@@||ruckuswireless.com^
-@@||ruckus.commscope.com^
-@@||cloud.ruckuswireless.com^
-@@||support.ruckuswireless.com^
-@@||activate.ruckuswireless.com^
-@@||updates.ruckuswireless.com^
+@@||*.rach.io^
+@@||*.rachio.com^
+@@||*.iot.us-east-1.amazonaws.com^
+@@||*.amazonaws.com^
+@@||api.rach.io^
+@@||prod.rach.io^
