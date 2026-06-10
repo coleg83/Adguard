@@ -1,0 +1,8 @@
+# Ruckus DNS Blocklist
+# AdGuard blocklist — one domain per line using filter syntax
+# Format: ||domain.com^  (blocks domain and all subdomains)
+
+# Example entries:
+# ||ads.example.com^
+# ||tracking.example.com^
+# ||malware.example.com^
