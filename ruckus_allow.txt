@@ -1,0 +1,10 @@
+# Ruckus DNS Whitelist
+# AdGuard allowlist — one domain per line using filter syntax
+# Format: @@||domain.com^
+
+@@||*.rach.io^
+@@||*.rachio.com^
+@@||*.iot.us-east-1.amazonaws.com^
+@@||*.amazonaws.com^
+@@||api.rach.io^
+@@||prod.rach.io^
