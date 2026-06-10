@@ -3,4 +3,4 @@
 ! Format: ||domain.com^
 
 ! Replace the example below with your own entries:
-||placeholder.invalid^
+||doubleclick.net^
